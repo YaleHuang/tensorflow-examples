@@ -1,4 +1,4 @@
 #!/bin/sh
 
-apt-get install python-pandas less
-
+apt-get update
+apt-get install -y python-pandas less vim
