@@ -1,0 +1,15 @@
+[submodule "GoMNIST"]
+	path = GoMNIST
+	url = https://github.com/petar/GoMNIST.git
+[submodule "models"]
+	path = models
+	url = https://github.com/tensorflow/models.git
+[submodule "t81_558_deep_learning"]
+	path = t81_558_deep_learning
+	url = https://github.com/jeffheaton/t81_558_deep_learning.git
+[submodule "tensorflow-models"]
+	path = tensorflow-models
+	url = https://github.com/alxsoares/tensorflow-models.git
+[submodule "test"]
+	path = test
+	url = https://github.com/cljin/test.git
