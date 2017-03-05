@@ -13,3 +13,9 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/cljin/test.git
+[submodule "TensorFlow-Examples"]
+	path = TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "tf-stanford-tutorials"]
+	path = tf-stanford-tutorials
+	url = https://github.com/chiphuyen/tf-stanford-tutorials.git
