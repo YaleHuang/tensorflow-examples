@@ -19,3 +19,6 @@
 [submodule "tf-stanford-tutorials"]
 	path = tf-stanford-tutorials
 	url = https://github.com/chiphuyen/tf-stanford-tutorials.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
